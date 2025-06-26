@@ -76,7 +76,7 @@ This script includes three stages, (1) a ‘warm-up’ process: select the best-
 RNA-seq and CAGE-seq gene expressions were used to to investigate the predictive performance of ScPGE.
 
 <p align="center"> 
-<img src=https://github.com/turningpoint1988/NLDNN/blob/main/picture/performance.jpg width = "600" height = "500">
+<img src=https://github.com/turningpoint1988/ScPGE/blob/main/picture/performance.jpg width = "600" height = "500">
 </p>
 
 <h4 align="center"> 
@@ -88,7 +88,7 @@ Fig.2 The performance of ScPGE in predicting RNA-seq/CAGE gene expression levels
 Trough categorization of predictions, different patterns were found in true positives (TPs), false positives (FPs), true negatives (TNs), and false negatives (FNs).
 
 <p align="center"> 
-<img src=https://github.com/turningpoint1988/NLDNN/blob/main/picture/pattern.jpg>
+<img src=https://github.com/turningpoint1988/ScPGE/blob/main/picture/pattern.jpg>
 </p>
 
 <h4 align="center"> 
