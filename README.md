@@ -14,7 +14,7 @@ Fig.1 The flowchart of ScPGE.
 ## Prerequisites and Dependencies
 
 - [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
-- Python 3.7
+- [Python 3.7](https://www.python.org/downloads/release/python-370/)
 - [PyTorch 1.9](https://pytorch.org/)
 - [CUDA 11.1](https://developer.nvidia.com/cuda-11.1.1-download-archive)
 - Python packages: biopython, scikit-learn, pyBigWig, h5py, scipy, pandas, matplotlib, seaborn
@@ -76,7 +76,7 @@ This script includes three stages, (1) a ‘warm-up’ process: select the best-
 RNA-seq and CAGE-seq gene expressions were used to to investigate the predictive performance of ScPGE.
 
 <p align="center"> 
-<img src=https://github.com/turningpoint1988/ScPGE/blob/main/picture/performance.jpg width = "600" height = "500">
+<img src=https://github.com/turningpoint1988/ScPGE/blob/main/picture/performance.jpg>
 </p>
 
 <h4 align="center"> 
