@@ -1,0 +1,15 @@
+ENCFF721CBA	tsv	transcript quantifications	ENCSR420NLC	total RNA-seq	PC-3	cell line		>200	1	1_1
+ENCFF620OLW	tsv	transcript quantifications	ENCSR420NLC	total RNA-seq	PC-3	cell line		>200	2	2_1
+ENCFF507MQQ	tsv	transcript quantifications	ENCSR420NLC	total RNA-seq	PC-3	cell line		>200	1	1_1
+ENCFF479SJK	tsv	transcript quantifications	ENCSR420NLC	total RNA-seq	PC-3	cell line		>200	2	2_1
+ENCFF705DKP	bigWig	fold change over control	ENCSR359LOD	TF ChIP-seq	PC-3	cell line	CTCF-human	300-600	1	1_1
+ENCFF186ZNC	bigWig	fold change over control	ENCSR359LOD	TF ChIP-seq	PC-3	cell line	CTCF-human	300-600	2	2_1
+ENCFF756ESH	bigWig	fold change over control	ENCSR359LOD	TF ChIP-seq	PC-3	cell line	CTCF-human	300-600	1, 2	1_1, 2_1
+ENCFF698WSG	bigWig	fold change over control	ENCSR826UTD	Histone ChIP-seq	PC-3	cell line	H3K27ac-human	300-600	1	1_1
+ENCFF537PUA	bigWig	fold change over control	ENCSR826UTD	Histone ChIP-seq	PC-3	cell line	H3K27ac-human	300-600	1, 2	1_1, 2_1
+ENCFF651PFC	bigWig	fold change over control	ENCSR826UTD	Histone ChIP-seq	PC-3	cell line	H3K27ac-human	300-600	2	2_1
+ENCFF823ZMT	bigWig	fold change over control	ENCSR275NCH	Histone ChIP-seq	PC-3	cell line	H3K4me3-human	300-600	1	1_1
+ENCFF159LMA	bigWig	fold change over control	ENCSR275NCH	Histone ChIP-seq	PC-3	cell line	H3K4me3-human	300-600	2	2_1
+ENCFF319OET	bigWig	fold change over control	ENCSR275NCH	Histone ChIP-seq	PC-3	cell line	H3K4me3-human	300-600	1, 2	1_1, 2_1
+ENCFF599UKS	bigWig	read-depth normalized signal	ENCSR052AWE	DNase-seq	PC-3	cell line			1	1_1
+ENCFF835RBO	bigWig	read-depth normalized signal	ENCSR052AWE	DNase-seq	PC-3	cell line			2	2_1

@@ -1,0 +1,18 @@
+ENCFF950RGT	tsv	transcript quantifications	ENCSR000CUC	polyA plus RNA-seq	CD14-positive monocyte	primary cell		>200	1	1_1
+ENCFF737DWM	tsv	transcript quantifications	ENCSR000CUC	polyA plus RNA-seq	CD14-positive monocyte	primary cell		>200	2	2_1
+ENCFF553EXB	tsv	transcript quantifications	ENCSR000CUC	polyA plus RNA-seq	CD14-positive monocyte	primary cell		>200	1	1_1
+ENCFF477OSF	tsv	transcript quantifications	ENCSR000CUC	polyA plus RNA-seq	CD14-positive monocyte	primary cell		>200	2	2_1
+ENCFF587XGD	bigWig	fold change over control	ENCSR000ASN	Histone ChIP-seq	CD14-positive monocyte	primary cell	H3K4me3-human	200-600	1, 2	1_1, 1_2, 2_1
+ENCFF367ZHA	bigWig	fold change over control	ENCSR000ASN	Histone ChIP-seq	CD14-positive monocyte	primary cell	H3K4me3-human	200-600	2	2_1
+ENCFF439PJT	bigWig	fold change over control	ENCSR000ASN	Histone ChIP-seq	CD14-positive monocyte	primary cell	H3K4me3-human	200-600	1	1_1, 1_2
+ENCFF302MMA	bigWig	fold change over control	ENCSR000ATN	TF ChIP-seq	CD14-positive monocyte	primary cell	CTCF-human		1	1_1
+ENCFF271KMB	bigWig	fold change over control	ENCSR000ATN	TF ChIP-seq	CD14-positive monocyte	primary cell	CTCF-human		2	2_1
+ENCFF496PSJ	bigWig	fold change over control	ENCSR000ATN	TF ChIP-seq	CD14-positive monocyte	primary cell	CTCF-human		1, 2	1_1, 2_1
+ENCFF389PZY	bigWig	read-depth normalized signal	ENCSR000EPK	DNase-seq	CD14-positive monocyte	primary cell			2	2_1
+ENCFF123VGW	bigWig	read-depth normalized signal	ENCSR674JIL	DNase-seq	CD14-positive monocyte	primary cell			1	1_1
+ENCFF078DZN	bigWig	fold change over control	ENCSR000ASJ	Histone ChIP-seq	CD14-positive monocyte	primary cell	H3K27ac-human		2	2_1
+ENCFF948MET	bigWig	fold change over control	ENCSR000ASJ	Histone ChIP-seq	CD14-positive monocyte	primary cell	H3K27ac-human		1	1_1
+ENCFF184NWF	bigWig	fold change over control	ENCSR000ASJ	Histone ChIP-seq	CD14-positive monocyte	primary cell	H3K27ac-human		1, 2	1_1, 2_1
+ENCFF739LQS	bigWig	fold change over control	ENCSR796FCS	Histone ChIP-seq	CD14-positive monocyte	primary cell	H3K4me3-human		1	1_2
+ENCFF116NCG	bigWig	fold change over control	ENCSR012PII	Histone ChIP-seq	CD14-positive monocyte	primary cell	H3K27ac-human		1	1_2
+ENCFF353UAY	bigWig	read-depth normalized signal	ENCSR695AUY	DNase-seq	CD14-positive monocyte	primary cell			1	1_1

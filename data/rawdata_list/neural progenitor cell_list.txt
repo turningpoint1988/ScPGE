@@ -1,0 +1,15 @@
+ENCFF013UVO	tsv	transcript quantifications	ENCSR244ISQ	total RNA-seq	neural progenitor cell	in vitro differentiated cells		>200	2	2_1
+ENCFF670GKO	tsv	transcript quantifications	ENCSR244ISQ	total RNA-seq	neural progenitor cell	in vitro differentiated cells		>200	2	2_1
+ENCFF666QCX	tsv	transcript quantifications	ENCSR244ISQ	total RNA-seq	neural progenitor cell	in vitro differentiated cells		>200	1	1_1
+ENCFF607DUH	tsv	transcript quantifications	ENCSR244ISQ	total RNA-seq	neural progenitor cell	in vitro differentiated cells		>200	1	1_1
+ENCFF174IIR	bigWig	fold change over control	ENCSR449AXO	Histone ChIP-seq	neural progenitor cell	in vitro differentiated cells	H3K27ac-human	200-600	1	1_1
+ENCFF004OPR	bigWig	fold change over control	ENCSR449AXO	Histone ChIP-seq	neural progenitor cell	in vitro differentiated cells	H3K27ac-human	200-600	2	2_1
+ENCFF618RAO	bigWig	fold change over control	ENCSR449AXO	Histone ChIP-seq	neural progenitor cell	in vitro differentiated cells	H3K27ac-human	200-600	1, 2	1_1, 2_1
+ENCFF104ELH	bigWig	fold change over control	ENCSR661MUS	Histone ChIP-seq	neural progenitor cell	in vitro differentiated cells	H3K4me3-human	200-600	2	2_1, 2_2
+ENCFF957WNV	bigWig	fold change over control	ENCSR661MUS	Histone ChIP-seq	neural progenitor cell	in vitro differentiated cells	H3K4me3-human	200-600	1	1_1, 1_2
+ENCFF835JIA	bigWig	fold change over control	ENCSR661MUS	Histone ChIP-seq	neural progenitor cell	in vitro differentiated cells	H3K4me3-human	200-600	1, 2	1_1, 1_2, 2_1, 2_2
+ENCFF286QGB	bigWig	read-depth normalized signal	ENCSR963ALV	DNase-seq	neural progenitor cell	in vitro differentiated cells			1	1_1
+ENCFF142KTI	bigWig	read-depth normalized signal	ENCSR963ALV	DNase-seq	neural progenitor cell	in vitro differentiated cells			2	2_1
+ENCFF572SFB	bigWig	fold change over control	ENCSR125NBL	TF ChIP-seq	neural progenitor cell	in vitro differentiated cells	CTCF-human	200-600	1	1_1, 1_2
+ENCFF700SCP	bigWig	fold change over control	ENCSR125NBL	TF ChIP-seq	neural progenitor cell	in vitro differentiated cells	CTCF-human	200-600	1, 2	1_1, 1_2, 2_1
+ENCFF896TQG	bigWig	fold change over control	ENCSR125NBL	TF ChIP-seq	neural progenitor cell	in vitro differentiated cells	CTCF-human	200-600	2	2_1

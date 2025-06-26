@@ -1,0 +1,15 @@
+ENCFF086OJK	tsv	transcript quantifications	ENCSR000CUH	total RNA-seq	fibroblast of dermis	primary cell		>200	2	2_1
+ENCFF371RTQ	tsv	transcript quantifications	ENCSR000CUH	total RNA-seq	fibroblast of dermis	primary cell		>200	1	1_1
+ENCFF283GYJ	tsv	transcript quantifications	ENCSR000CUH	total RNA-seq	fibroblast of dermis	primary cell		>200	1	1_1
+ENCFF337IWP	tsv	transcript quantifications	ENCSR000CUH	total RNA-seq	fibroblast of dermis	primary cell		>200	2	2_1
+ENCFF466ZZY	bigWig	read-depth normalized signal	ENCSR000EPO	DNase-seq	fibroblast of dermis	primary cell			2	2_1
+ENCFF361BTT	bigWig	read-depth normalized signal	ENCSR000EPO	DNase-seq	fibroblast of dermis	primary cell			1	1_1
+ENCFF317VTJ	bigWig	fold change over control	ENCSR000APR	Histone ChIP-seq	fibroblast of dermis	primary cell	H3K4me3-human	200-600	2	2_1
+ENCFF529WWT	bigWig	fold change over control	ENCSR000APR	Histone ChIP-seq	fibroblast of dermis	primary cell	H3K4me3-human	200-600	1	1_1
+ENCFF125WTJ	bigWig	fold change over control	ENCSR000APR	Histone ChIP-seq	fibroblast of dermis	primary cell	H3K4me3-human	200-600	1, 2	1_1, 2_1
+ENCFF254VOR	bigWig	fold change over control	ENCSR000APN	Histone ChIP-seq	fibroblast of dermis	primary cell	H3K27ac-human		2	2_1
+ENCFF411OBU	bigWig	fold change over control	ENCSR000APN	Histone ChIP-seq	fibroblast of dermis	primary cell	H3K27ac-human		1	1_1
+ENCFF500IPG	bigWig	fold change over control	ENCSR000APN	Histone ChIP-seq	fibroblast of dermis	primary cell	H3K27ac-human		1, 2	1_1, 2_1
+ENCFF720GFK	bigWig	fold change over control	ENCSR000APM	TF ChIP-seq	fibroblast of dermis	primary cell	CTCF-human		1, 2	1_1, 2_1
+ENCFF231WLH	bigWig	fold change over control	ENCSR000APM	TF ChIP-seq	fibroblast of dermis	primary cell	CTCF-human		1	1_1
+ENCFF316KBU	bigWig	fold change over control	ENCSR000APM	TF ChIP-seq	fibroblast of dermis	primary cell	CTCF-human		2	2_1

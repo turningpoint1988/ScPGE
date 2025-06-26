@@ -1,0 +1,15 @@
+ENCFF838DGE	tsv	transcript quantifications	ENCSR128CYL	total RNA-seq	Panc1	cell line			1	1_1
+ENCFF937ZIY	tsv	transcript quantifications	ENCSR128CYL	total RNA-seq	Panc1	cell line			1	1_1
+ENCFF875IHG	tsv	transcript quantifications	ENCSR000BYM	polyA plus RNA-seq	Panc1	cell line		>200	1	1_1
+ENCFF480KEG	tsv	transcript quantifications	ENCSR000BYM	polyA plus RNA-seq	Panc1	cell line		>200	2	2_1
+ENCFF569TEU	bigWig	fold change over control	ENCSR000EXK	Histone ChIP-seq	Panc1	cell line	H3K27ac-human		1	1_1
+ENCFF240BXE	bigWig	fold change over control	ENCSR000EXK	Histone ChIP-seq	Panc1	cell line	H3K27ac-human		2	2_1
+ENCFF493AZX	bigWig	fold change over control	ENCSR000EXK	Histone ChIP-seq	Panc1	cell line	H3K27ac-human		1, 2	1_1, 2_1
+ENCFF611GRX	bigWig	fold change over control	ENCSR203QEB	TF ChIP-seq	Panc1	cell line	CTCF-human	450-650	1	1_1
+ENCFF189OWQ	bigWig	fold change over control	ENCSR203QEB	TF ChIP-seq	Panc1	cell line	CTCF-human	450-650	2	2_1
+ENCFF004ITE	bigWig	fold change over control	ENCSR203QEB	TF ChIP-seq	Panc1	cell line	CTCF-human	450-650	1, 2	1_1, 2_1
+ENCFF877RMP	bigWig	fold change over control	ENCSR000DXB	Histone ChIP-seq	Panc1	cell line	H3K4me3-human		1	1_1
+ENCFF293TBM	bigWig	fold change over control	ENCSR000DXB	Histone ChIP-seq	Panc1	cell line	H3K4me3-human		2	2_1
+ENCFF860FUS	bigWig	fold change over control	ENCSR000DXB	Histone ChIP-seq	Panc1	cell line	H3K4me3-human		1, 2	1_1, 2_1
+ENCFF172JTU	bigWig	read-depth normalized signal	ENCSR000EPT	DNase-seq	Panc1	cell line			2	2_1
+ENCFF857RXA	bigWig	read-depth normalized signal	ENCSR000EPT	DNase-seq	Panc1	cell line			1	1_1

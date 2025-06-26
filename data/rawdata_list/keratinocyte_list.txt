@@ -1,0 +1,24 @@
+ENCFF062DRT	tsv	transcript quantifications	ENCSR000CPL	polyA plus RNA-seq	keratinocyte	primary cell		>200	5	5_1
+ENCFF441BPU	tsv	transcript quantifications	ENCSR000CPL	polyA plus RNA-seq	keratinocyte	primary cell		>200	1	1_1
+ENCFF268QJZ	tsv	transcript quantifications	ENCSR000CPL	polyA plus RNA-seq	keratinocyte	primary cell		>200	2	2_1
+ENCFF404HZO	tsv	transcript quantifications	ENCSR000CPL	polyA plus RNA-seq	keratinocyte	primary cell		>200	2	2_1
+ENCFF085RUN	tsv	transcript quantifications	ENCSR000CPL	polyA plus RNA-seq	keratinocyte	primary cell		>200	1	1_1
+ENCFF205ANP	tsv	transcript quantifications	ENCSR000CPL	polyA plus RNA-seq	keratinocyte	primary cell		>200	5	5_1
+ENCFF107CUR	bigWig	fold change over control	ENCSR000ALO	Histone ChIP-seq	keratinocyte	primary cell	H3K4me3-human		2	2_1
+ENCFF079YXO	bigWig	fold change over control	ENCSR000ALO	Histone ChIP-seq	keratinocyte	primary cell	H3K4me3-human		1, 2, 3	1_1, 2_1, 3_1
+ENCFF421HXW	bigWig	fold change over control	ENCSR000ALO	Histone ChIP-seq	keratinocyte	primary cell	H3K4me3-human		3	3_1
+ENCFF539ZRC	bigWig	fold change over control	ENCSR000ALO	Histone ChIP-seq	keratinocyte	primary cell	H3K4me3-human		1	1_1
+ENCFF404ILZ	bigWig	read-depth normalized signal	ENCSR000EPQ	DNase-seq	keratinocyte	primary cell			2	2_1
+ENCFF494IGD	bigWig	read-depth normalized signal	ENCSR000EPQ	DNase-seq	keratinocyte	primary cell			1	1_1
+ENCFF318UHZ	bigWig	fold change over control	ENCSR000DNC	TF ChIP-seq	keratinocyte	primary cell	CTCF-human		2	2_1
+ENCFF771DBH	bigWig	fold change over control	ENCSR000DNC	TF ChIP-seq	keratinocyte	primary cell	CTCF-human		1	1_1
+ENCFF261CVM	bigWig	fold change over control	ENCSR000DNC	TF ChIP-seq	keratinocyte	primary cell	CTCF-human		1, 2	1_1, 2_1
+ENCFF411GZX	bigWig	fold change over control	ENCSR000DNC	TF ChIP-seq	keratinocyte	primary cell	CTCF-human		2	2_1
+ENCFF298JJU	bigWig	fold change over control	ENCSR000DNC	TF ChIP-seq	keratinocyte	primary cell	CTCF-human		1, 2	1_1, 2_1
+ENCFF013ROK	bigWig	fold change over control	ENCSR000DNC	TF ChIP-seq	keratinocyte	primary cell	CTCF-human		1	1_1
+ENCFF233IOE	bigWig	fold change over control	ENCSR970FPM	Histone ChIP-seq	keratinocyte	primary cell	H3K4me3-human	200-600	2	2_1
+ENCFF632PUY	bigWig	fold change over control	ENCSR970FPM	Histone ChIP-seq	keratinocyte	primary cell	H3K4me3-human	200-600	1, 2	1_1, 2_1
+ENCFF339PFJ	bigWig	fold change over control	ENCSR970FPM	Histone ChIP-seq	keratinocyte	primary cell	H3K4me3-human	200-600	1	1_1
+ENCFF443TJZ	bigWig	fold change over control	ENCSR000ALK	Histone ChIP-seq	keratinocyte	primary cell	H3K27ac-human		1, 2	1_1, 2_1
+ENCFF575SBG	bigWig	fold change over control	ENCSR000ALK	Histone ChIP-seq	keratinocyte	primary cell	H3K27ac-human		1	1_1
+ENCFF360XRT	bigWig	fold change over control	ENCSR000ALK	Histone ChIP-seq	keratinocyte	primary cell	H3K27ac-human		2	2_1

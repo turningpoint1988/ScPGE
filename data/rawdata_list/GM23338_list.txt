@@ -1,0 +1,17 @@
+ENCFF579OIG	tsv	transcript quantifications	ENCSR938LSP	total RNA-seq	GM23338	cell line		>200	1	1_1
+ENCFF502XXC	tsv	transcript quantifications	ENCSR938LSP	total RNA-seq	GM23338	cell line		>200	2	2_1
+ENCFF198ZHN	tsv	transcript quantifications	ENCSR938LSP	total RNA-seq	GM23338	cell line		>200	1	1_1
+ENCFF193DMT	tsv	transcript quantifications	ENCSR938LSP	total RNA-seq	GM23338	cell line		>200	2	2_1
+ENCFF660BYF	tsv	transcript quantifications	ENCSR748GVH	polyA plus RNA-seq	GM23338	cell line		>200	2	2_1
+ENCFF688VGT	tsv	transcript quantifications	ENCSR748GVH	polyA plus RNA-seq	GM23338	cell line		>200	1	1_1
+ENCFF193NSG	bigWig	fold change over control	ENCSR729ENO	Histone ChIP-seq	GM23338	cell line	H3K27ac-human	200-600	1	1_1
+ENCFF336OMS	bigWig	fold change over control	ENCSR729ENO	Histone ChIP-seq	GM23338	cell line	H3K27ac-human	200-600	2	2_1
+ENCFF641QBD	bigWig	fold change over control	ENCSR729ENO	Histone ChIP-seq	GM23338	cell line	H3K27ac-human	200-600	1, 2	1_1, 2_1
+ENCFF395HEQ	bigWig	read-depth normalized signal	ENCSR004SUL	DNase-seq	GM23338	cell line			2	2_1
+ENCFF766CUM	bigWig	read-depth normalized signal	ENCSR004SUL	DNase-seq	GM23338	cell line			1	1_1
+ENCFF101UCD	bigWig	fold change over control	ENCSR932ZMX	TF ChIP-seq	GM23338	cell line	CTCF-human		1	1_1
+ENCFF188MNF	bigWig	fold change over control	ENCSR932ZMX	TF ChIP-seq	GM23338	cell line	CTCF-human		2	2_1
+ENCFF369MIX	bigWig	fold change over control	ENCSR932ZMX	TF ChIP-seq	GM23338	cell line	CTCF-human		1, 2	1_1, 2_1
+ENCFF242ICY	bigWig	fold change over control	ENCSR657DYL	Histone ChIP-seq	GM23338	cell line	H3K4me3-human	200-600	1	1_1
+ENCFF860DIY	bigWig	fold change over control	ENCSR657DYL	Histone ChIP-seq	GM23338	cell line	H3K4me3-human	200-600	2	2_1
+ENCFF446OPT	bigWig	fold change over control	ENCSR657DYL	Histone ChIP-seq	GM23338	cell line	H3K4me3-human	200-600	1, 2	1_1, 2_1

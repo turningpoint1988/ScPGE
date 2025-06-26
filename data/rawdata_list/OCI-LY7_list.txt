@@ -1,0 +1,15 @@
+ENCFF902CCF	tsv	transcript quantifications	ENCSR001HHK	total RNA-seq	OCI-LY7	cell line		>200	2	2_1
+ENCFF073BFP	tsv	transcript quantifications	ENCSR001HHK	total RNA-seq	OCI-LY7	cell line		>200	2	2_1
+ENCFF410ULZ	tsv	transcript quantifications	ENCSR001HHK	total RNA-seq	OCI-LY7	cell line		>200	1	1_1
+ENCFF247HMV	tsv	transcript quantifications	ENCSR001HHK	total RNA-seq	OCI-LY7	cell line		>200	1	1_1
+ENCFF975BGM	bigWig	fold change over control	ENCSR027HML	TF ChIP-seq	OCI-LY7	cell line	CTCF-human	200-600	1, 2	1_1, 2_1
+ENCFF684IUB	bigWig	fold change over control	ENCSR027HML	TF ChIP-seq	OCI-LY7	cell line	CTCF-human	200-600	1	1_1
+ENCFF161GVV	bigWig	fold change over control	ENCSR027HML	TF ChIP-seq	OCI-LY7	cell line	CTCF-human	200-600	2	2_1
+ENCFF739TLM	bigWig	read-depth normalized signal	ENCSR489NAM	DNase-seq	OCI-LY7	cell line			2	2_1
+ENCFF136RNO	bigWig	read-depth normalized signal	ENCSR489NAM	DNase-seq	OCI-LY7	cell line			1	1_1
+ENCFF741DRQ	bigWig	fold change over control	ENCSR005SXO	Histone ChIP-seq	OCI-LY7	cell line	H3K4me3-human	200-600	1	1_1
+ENCFF108EGJ	bigWig	fold change over control	ENCSR005SXO	Histone ChIP-seq	OCI-LY7	cell line	H3K4me3-human	200-600	2	2_1
+ENCFF630BQS	bigWig	fold change over control	ENCSR005SXO	Histone ChIP-seq	OCI-LY7	cell line	H3K4me3-human	200-600	1, 2	1_1, 2_1
+ENCFF931SDF	bigWig	fold change over control	ENCSR447ZGY	Histone ChIP-seq	OCI-LY7	cell line	H3K27ac-human	200-600	1	1_1
+ENCFF646GON	bigWig	fold change over control	ENCSR447ZGY	Histone ChIP-seq	OCI-LY7	cell line	H3K27ac-human	200-600	2	2_1
+ENCFF611XLA	bigWig	fold change over control	ENCSR447ZGY	Histone ChIP-seq	OCI-LY7	cell line	H3K27ac-human	200-600	1, 2	1_1, 2_1

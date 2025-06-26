@@ -1,0 +1,20 @@
+ENCFF540YWF	tsv	transcript quantifications	ENCSR023VVO	polyA plus RNA-seq	bipolar neuron	in vitro differentiated cells		>200	1	1_1
+ENCFF111UUR	tsv	transcript quantifications	ENCSR023VVO	polyA plus RNA-seq	bipolar neuron	in vitro differentiated cells		>200	2	2_1
+ENCFF995EDB	tsv	transcript quantifications	ENCSR968WKR	total RNA-seq	bipolar neuron	in vitro differentiated cells		>200	1	1_1
+ENCFF218WPZ	tsv	transcript quantifications	ENCSR968WKR	total RNA-seq	bipolar neuron	in vitro differentiated cells		>200	2	2_1
+ENCFF952KRD	tsv	transcript quantifications	ENCSR968WKR	total RNA-seq	bipolar neuron	in vitro differentiated cells		>200	1	1_1
+ENCFF114DLF	tsv	transcript quantifications	ENCSR968WKR	total RNA-seq	bipolar neuron	in vitro differentiated cells		>200	2	2_1
+ENCFF386FNE	bigWig	read-depth normalized signal	ENCSR626RVD	DNase-seq	bipolar neuron	in vitro differentiated cells			1	1_1
+ENCFF928GOH	bigWig	read-depth normalized signal	ENCSR626RVD	DNase-seq	bipolar neuron	in vitro differentiated cells			2	2_1
+ENCFF596ZSJ	bigWig	fold change over control	ENCSR066BZZ	TF ChIP-seq	bipolar neuron	in vitro differentiated cells	CTCF-human	200-600	1, 2	1_1, 2_1
+ENCFF723ZNV	bigWig	fold change over control	ENCSR066BZZ	TF ChIP-seq	bipolar neuron	in vitro differentiated cells	CTCF-human	200-600	1	1_1
+ENCFF294YRB	bigWig	fold change over control	ENCSR066BZZ	TF ChIP-seq	bipolar neuron	in vitro differentiated cells	CTCF-human	200-600	2	2_1
+ENCFF788ORL	bigWig	fold change over control	ENCSR066BZZ	TF ChIP-seq	bipolar neuron	in vitro differentiated cells	CTCF-human	200-600	1	1_1
+ENCFF145UJA	bigWig	fold change over control	ENCSR066BZZ	TF ChIP-seq	bipolar neuron	in vitro differentiated cells	CTCF-human	200-600	2	2_1
+ENCFF815AAU	bigWig	fold change over control	ENCSR066BZZ	TF ChIP-seq	bipolar neuron	in vitro differentiated cells	CTCF-human	200-600	1, 2	1_1, 2_1
+ENCFF435NQW	bigWig	fold change over control	ENCSR905TYC	Histone ChIP-seq	bipolar neuron	in vitro differentiated cells	H3K27ac-human	200-600	1, 2	1_1, 2_1
+ENCFF265AKD	bigWig	fold change over control	ENCSR905TYC	Histone ChIP-seq	bipolar neuron	in vitro differentiated cells	H3K27ac-human	200-600	1	1_1
+ENCFF372KXN	bigWig	fold change over control	ENCSR905TYC	Histone ChIP-seq	bipolar neuron	in vitro differentiated cells	H3K27ac-human	200-600	2	2_1
+ENCFF192EVW	bigWig	fold change over control	ENCSR849YFO	Histone ChIP-seq	bipolar neuron	in vitro differentiated cells	H3K4me3-human	200-600	1	1_1
+ENCFF167RAV	bigWig	fold change over control	ENCSR849YFO	Histone ChIP-seq	bipolar neuron	in vitro differentiated cells	H3K4me3-human	200-600	2	2_1
+ENCFF768NPJ	bigWig	fold change over control	ENCSR849YFO	Histone ChIP-seq	bipolar neuron	in vitro differentiated cells	H3K4me3-human	200-600	1, 2	1_1, 2_1

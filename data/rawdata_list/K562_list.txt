@@ -1,0 +1,59 @@
+ENCFF940GYO	tsv	transcript quantifications	ENCSR000CPH	polyA plus RNA-seq	K562	cell line		>200	2	2_1
+ENCFF823JHX	tsv	transcript quantifications	ENCSR000CPH	polyA plus RNA-seq	K562	cell line		>200	1	1_1
+ENCFF254AJX	tsv	transcript quantifications	ENCSR000CPH	polyA plus RNA-seq	K562	cell line		>200	1	1_1
+ENCFF142FDI	tsv	transcript quantifications	ENCSR000CPH	polyA plus RNA-seq	K562	cell line		>200	2	2_1
+ENCFF964MZP	tsv	transcript quantifications	ENCSR000AEP	polyA plus RNA-seq	K562	cell line		>200	1	1_1
+ENCFF060YKD	tsv	transcript quantifications	ENCSR000AEP	polyA plus RNA-seq	K562	cell line		>200	2	2_1
+ENCFF122TNW	tsv	transcript quantifications	ENCSR000AEP	polyA plus RNA-seq	K562	cell line		>200	1	1_1
+ENCFF959YEC	tsv	transcript quantifications	ENCSR000AEP	polyA plus RNA-seq	K562	cell line		>200	2	2_1
+ENCFF591YGQ	tsv	transcript quantifications	ENCSR109IQO	total RNA-seq	K562	cell line		>200	1	1_1
+ENCFF908CTD	tsv	transcript quantifications	ENCSR109IQO	total RNA-seq	K562	cell line		>200	2	2_1
+ENCFF012LGS	tsv	transcript quantifications	ENCSR109IQO	total RNA-seq	K562	cell line		>200	1	1_1
+ENCFF714FKW	tsv	transcript quantifications	ENCSR109IQO	total RNA-seq	K562	cell line		>200	2	2_1
+ENCFF782UNG	bigWig	fold change over control	ENCSR000AKR	Histone ChIP-seq	K562	cell line	H3K36me3-human		1	1_1
+ENCFF860PQP	bigWig	fold change over control	ENCSR000AKR	Histone ChIP-seq	K562	cell line	H3K36me3-human		2	2_1
+ENCFF163NTH	bigWig	fold change over control	ENCSR000AKR	Histone ChIP-seq	K562	cell line	H3K36me3-human		1, 2	1_1, 2_1
+ENCFF679YZC	bigWig	fold change over control	ENCSR000AKQ	Histone ChIP-seq	K562	cell line	H3K27me3-human		2	2_1
+ENCFF585RVP	bigWig	fold change over control	ENCSR000AKQ	Histone ChIP-seq	K562	cell line	H3K27me3-human		1	1_1
+ENCFF405HIO	bigWig	fold change over control	ENCSR000AKQ	Histone ChIP-seq	K562	cell line	H3K27me3-human		1, 2	1_1, 2_1
+ENCFF545JLB	bigWig	fold change over control	ENCSR000AKU	Histone ChIP-seq	K562	cell line	H3K4me3-human		1	1_1
+ENCFF617VRS	bigWig	fold change over control	ENCSR000AKU	Histone ChIP-seq	K562	cell line	H3K4me3-human		2	2_1
+ENCFF660WUG	bigWig	fold change over control	ENCSR000AKU	Histone ChIP-seq	K562	cell line	H3K4me3-human		1, 2	1_1, 2_1
+ENCFF229IJV	bigWig	fold change over control	ENCSR000AKT	Histone ChIP-seq	K562	cell line	H3K4me2-human		1	1_1
+ENCFF386XDJ	bigWig	fold change over control	ENCSR000AKT	Histone ChIP-seq	K562	cell line	H3K4me2-human		2	2_1
+ENCFF959YJV	bigWig	fold change over control	ENCSR000AKT	Histone ChIP-seq	K562	cell line	H3K4me2-human		1, 2	1_1, 2_1
+ENCFF621DJP	bigWig	fold change over control	ENCSR000APC	Histone ChIP-seq	K562	cell line	H2AFZ-human		1, 2	1_1, 2_1
+ENCFF242WQK	bigWig	fold change over control	ENCSR000APC	Histone ChIP-seq	K562	cell line	H2AFZ-human		1	1_1
+ENCFF964BCA	bigWig	fold change over control	ENCSR000APC	Histone ChIP-seq	K562	cell line	H2AFZ-human		2	2_1
+ENCFF806LCJ	bigWig	fold change over control	ENCSR388QZF	TF ChIP-seq	K562	cell line	POLR2A-human	450-650	1, 2	1_1, 2_1
+ENCFF447IUT	bigWig	fold change over control	ENCSR388QZF	TF ChIP-seq	K562	cell line	POLR2A-human	450-650	1	1_1
+ENCFF202BSU	bigWig	fold change over control	ENCSR388QZF	TF ChIP-seq	K562	cell line	POLR2A-human	450-650	2	2_1
+ENCFF286WRJ	bigWig	fold change over control	ENCSR000AKV	Histone ChIP-seq	K562	cell line	H3K9ac-human		1, 2	1_1, 2_1
+ENCFF236VCK	bigWig	fold change over control	ENCSR000AKV	Histone ChIP-seq	K562	cell line	H3K9ac-human		1	1_1
+ENCFF650QTM	bigWig	fold change over control	ENCSR000AKV	Histone ChIP-seq	K562	cell line	H3K9ac-human		2	2_1
+ENCFF254FRH	bigWig	fold change over control	ENCSR000EGM	TF ChIP-seq	K562	cell line	CTCF-human		1	1_1
+ENCFF682MFJ	bigWig	fold change over control	ENCSR000EGM	TF ChIP-seq	K562	cell line	CTCF-human		1, 2	1_1, 2_1
+ENCFF952NHK	bigWig	fold change over control	ENCSR000EGM	TF ChIP-seq	K562	cell line	CTCF-human		2	2_1
+ENCFF830FQU	bigWig	fold change over control	ENCSR000DWB	Histone ChIP-seq	K562	cell line	H3K36me3-human		2	2_1
+ENCFF160XCK	bigWig	fold change over control	ENCSR000DWB	Histone ChIP-seq	K562	cell line	H3K36me3-human		1	1_1
+ENCFF347YYH	bigWig	fold change over control	ENCSR000DWB	Histone ChIP-seq	K562	cell line	H3K36me3-human		1, 2	1_1, 2_1
+ENCFF414OGC	bigWig	read-depth normalized signal	ENCSR000EOT	DNase-seq	K562	cell line			1	1_1, 1_2
+ENCFF338LXW	bigWig	read-depth normalized signal	ENCSR000EOT	DNase-seq	K562	cell line			2	2_1
+ENCFF977KGH	bigWig	fold change over control	ENCSR000AKP	Histone ChIP-seq	K562	cell line	H3K27ac-human		1	1_1
+ENCFF745TSK	bigWig	fold change over control	ENCSR000AKP	Histone ChIP-seq	K562	cell line	H3K27ac-human		2	2_1
+ENCFF849TDM	bigWig	fold change over control	ENCSR000AKP	Histone ChIP-seq	K562	cell line	H3K27ac-human		1, 2	1_1, 2_1
+ENCFF155DUF	bigWig	fold change over control	ENCSR000EGE	TF ChIP-seq	K562	cell line	EP300-human		1	1_1
+ENCFF513GVS	bigWig	fold change over control	ENCSR000EGE	TF ChIP-seq	K562	cell line	EP300-human		2	2_1
+ENCFF636VVR	bigWig	fold change over control	ENCSR000EGE	TF ChIP-seq	K562	cell line	EP300-human		1, 2	1_1, 2_1
+ENCFF490RQD	bigWig	fold change over control	ENCSR000AKS	Histone ChIP-seq	K562	cell line	H3K4me1-human		1	1_1
+ENCFF149FZG	bigWig	fold change over control	ENCSR000AKS	Histone ChIP-seq	K562	cell line	H3K4me1-human		2	2_1
+ENCFF834SEY	bigWig	fold change over control	ENCSR000AKS	Histone ChIP-seq	K562	cell line	H3K4me1-human		1, 2	1_1, 2_1
+ENCFF103IHG	bigWig	fold change over control	ENCSR000APE	Histone ChIP-seq	K562	cell line	H3K9me3-human		1	1_1
+ENCFF600IBI	bigWig	fold change over control	ENCSR000APE	Histone ChIP-seq	K562	cell line	H3K9me3-human		2	2_1
+ENCFF601JGK	bigWig	fold change over control	ENCSR000APE	Histone ChIP-seq	K562	cell line	H3K9me3-human		1, 2	1_1, 2_1
+ENCFF253TOF	bigWig	fold change over control	ENCSR668LDD	Histone ChIP-seq	K562	cell line	H3K4me3-human	200-600	1, 2	1_1, 2_1
+ENCFF089RDX	bigWig	fold change over control	ENCSR668LDD	Histone ChIP-seq	K562	cell line	H3K4me3-human	200-600	1	1_1
+ENCFF941IYM	bigWig	fold change over control	ENCSR668LDD	Histone ChIP-seq	K562	cell line	H3K4me3-human	200-600	2	2_1
+ENCFF036VRF	bigWig	fold change over control	ENCSR000EWB	Histone ChIP-seq	K562	cell line	H3K27me3-human		1	1_1
+ENCFF971QDI	bigWig	fold change over control	ENCSR000EWB	Histone ChIP-seq	K562	cell line	H3K27me3-human		2	2_1
+ENCFF139KZL	bigWig	fold change over control	ENCSR000EWB	Histone ChIP-seq	K562	cell line	H3K27me3-human		1, 2	1_1, 2_1

@@ -1,0 +1,23 @@
+ENCFF654QMA	tsv	transcript quantifications	ENCSR000CWM	polyA plus RNA-seq	HCT116	cell line		>200	1	1_1
+ENCFF003PGO	tsv	transcript quantifications	ENCSR000CWM	polyA plus RNA-seq	HCT116	cell line		>200	1	1_1
+ENCFF651GQO	tsv	transcript quantifications	ENCSR000CWM	polyA plus RNA-seq	HCT116	cell line		>200	2	2_1
+ENCFF964VPA	tsv	transcript quantifications	ENCSR000CWM	polyA plus RNA-seq	HCT116	cell line		>200	2	2_1
+ENCFF147EDS	tsv	transcript quantifications	ENCSR698RPL	total RNA-seq	HCT116	cell line			1	1_1
+ENCFF198XLB	tsv	transcript quantifications	ENCSR698RPL	total RNA-seq	HCT116	cell line			1	1_1
+ENCFF169MCH	bigWig	fold change over control	ENCSR000EUT	Histone ChIP-seq	HCT116	cell line	H3K27ac-human		1, 2	1_1, 2_1
+ENCFF566DAG	bigWig	fold change over control	ENCSR000EUT	Histone ChIP-seq	HCT116	cell line	H3K27ac-human		1	1_1
+ENCFF490DXB	bigWig	fold change over control	ENCSR000EUT	Histone ChIP-seq	HCT116	cell line	H3K27ac-human		2	2_1
+ENCFF218DKI	bigWig	fold change over control	ENCSR000DTQ	Histone ChIP-seq	HCT116	cell line	H3K4me3-human		1	1_1
+ENCFF184EQN	bigWig	fold change over control	ENCSR000DTQ	Histone ChIP-seq	HCT116	cell line	H3K4me3-human		2	2_1
+ENCFF964OOU	bigWig	fold change over control	ENCSR000DTQ	Histone ChIP-seq	HCT116	cell line	H3K4me3-human		1, 2	1_1, 2_1
+ENCFF906MKW	bigWig	read-depth normalized signal	ENCSR000ENM	DNase-seq	HCT116	cell line			2	2_1
+ENCFF431JDU	bigWig	read-depth normalized signal	ENCSR000ENM	DNase-seq	HCT116	cell line			1	1_1
+ENCFF417BKP	bigWig	fold change over control	ENCSR661KMA	Histone ChIP-seq	HCT116	cell line	H3K27ac-human	200-600	1	1_1
+ENCFF953TWH	bigWig	fold change over control	ENCSR661KMA	Histone ChIP-seq	HCT116	cell line	H3K27ac-human	200-600	2	2_2
+ENCFF787LMI	bigWig	fold change over control	ENCSR661KMA	Histone ChIP-seq	HCT116	cell line	H3K27ac-human	200-600	1, 2	1_1, 2_2
+ENCFF825ECI	bigWig	fold change over control	ENCSR240PRQ	TF ChIP-seq	HCT116	cell line	CTCF-human	200-600	1, 2	1_1, 2_1
+ENCFF028PUM	bigWig	fold change over control	ENCSR240PRQ	TF ChIP-seq	HCT116	cell line	CTCF-human	200-600	1	1_1
+ENCFF304JSD	bigWig	fold change over control	ENCSR240PRQ	TF ChIP-seq	HCT116	cell line	CTCF-human	200-600	2	2_1
+ENCFF457ZWF	bigWig	fold change over control	ENCSR333OPW	Histone ChIP-seq	HCT116	cell line	H3K4me3-human	200-600	1	1_1
+ENCFF283FLI	bigWig	fold change over control	ENCSR333OPW	Histone ChIP-seq	HCT116	cell line	H3K4me3-human	200-600	2	2_1
+ENCFF649ZLF	bigWig	fold change over control	ENCSR333OPW	Histone ChIP-seq	HCT116	cell line	H3K4me3-human	200-600	1, 2	1_1, 2_1

@@ -1,0 +1,50 @@
+ENCFF552IHH	tsv	transcript quantifications	ENCSR000CWD	total RNA-seq	CH12.LX	cell line		mm10	1	1_1
+ENCFF135VPP	tsv	transcript quantifications	ENCSR000CWD	total RNA-seq	CH12.LX	cell line		mm10	2	2_1
+ENCFF237FHG	tsv	transcript quantifications	ENCSR000CWD	total RNA-seq	CH12.LX	cell line		mm10	1	1_1
+ENCFF657QFG	tsv	transcript quantifications	ENCSR000CWD	total RNA-seq	CH12.LX	cell line		mm10	2	2_1
+ENCFF820VIR	tsv	transcript quantifications	ENCSR000CHR	polyA plus RNA-seq	CH12.LX	cell line		mm10	2	2_1
+ENCFF561BOW	tsv	transcript quantifications	ENCSR000CHR	polyA plus RNA-seq	CH12.LX	cell line		mm10	1	1_1
+ENCFF233HAB	tsv	transcript quantifications	ENCSR000AJV	total RNA-seq	CH12.LX	cell line		mm10	1	1_1
+ENCFF477PSN	tsv	transcript quantifications	ENCSR000AJV	total RNA-seq	CH12.LX	cell line		mm10	2	2_1
+ENCFF895QRR	tsv	transcript quantifications	ENCSR000AJV	total RNA-seq	CH12.LX	cell line		mm10	1	1_1
+ENCFF072KSX	tsv	transcript quantifications	ENCSR000AJV	total RNA-seq	CH12.LX	cell line		mm10	2	2_1
+ENCFF315JOG	bigWig	read-depth normalized signal	ENCSR000CMQ	DNase-seq	CH12.LX	cell line		mm10	2	2_1
+ENCFF228LWM	bigWig	read-depth normalized signal	ENCSR000CMQ	DNase-seq	CH12.LX	cell line		mm10	1	1_1
+ENCFF682RGY	bigWig	read-depth normalized signal	ENCSR000CMQ	DNase-seq	CH12.LX	cell line		mm10	1	1_1
+ENCFF578APN	bigWig	read-depth normalized signal	ENCSR000CMQ	DNase-seq	CH12.LX	cell line		mm10	2	2_1
+ENCFF738ICM	bigWig	fold change over control	ENCSR000DHU	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	1	1_1
+ENCFF554TFI	bigWig	fold change over control	ENCSR000DHU	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	1	1_1
+ENCFF149VRJ	bigWig	fold change over control	ENCSR000DHU	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	2	2_1
+ENCFF288OKN	bigWig	fold change over control	ENCSR000DHU	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	"1, 2"	"1_1, 2_1"
+ENCFF367BSO	bigWig	fold change over control	ENCSR000DHU	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	2	2_1
+ENCFF171TNA	bigWig	fold change over control	ENCSR000DHU	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	"1, 2"	"1_1, 2_1"
+ENCFF096TSJ	bigWig	fold change over control	ENCSR000CGJ	Histone ChIP-seq	CH12.LX	cell line	H3K27ac-mouse	mm10	1	1_1
+ENCFF970NYL	bigWig	fold change over control	ENCSR000CGJ	Histone ChIP-seq	CH12.LX	cell line	H3K27ac-mouse	mm10	2	2_1
+ENCFF867PYD	bigWig	fold change over control	ENCSR000CGJ	Histone ChIP-seq	CH12.LX	cell line	H3K27ac-mouse	mm10	"1, 2"	"1_1, 2_1"
+ENCFF883PUL	bigWig	fold change over control	ENCSR000CGJ	Histone ChIP-seq	CH12.LX	cell line	H3K27ac-mouse	mm10	2	2_1
+ENCFF672JRS	bigWig	fold change over control	ENCSR000CGJ	Histone ChIP-seq	CH12.LX	cell line	H3K27ac-mouse	mm10	1	1_1
+ENCFF666CND	bigWig	fold change over control	ENCSR000CGJ	Histone ChIP-seq	CH12.LX	cell line	H3K27ac-mouse	mm10	"1, 2"	"1_1, 2_1"
+ENCFF011TAF	bigWig	fold change over control	ENCSR000CGK	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	1	1_1
+ENCFF704ZVD	bigWig	fold change over control	ENCSR000CGK	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	2	2_1
+ENCFF500BXF	bigWig	fold change over control	ENCSR000CGK	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	"1, 2"	"1_1, 2_1"
+ENCFF672OAB	bigWig	fold change over control	ENCSR000CGK	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	1	1_1
+ENCFF420ORJ	bigWig	fold change over control	ENCSR000CGK	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	"1, 2"	"1_1, 2_1"
+ENCFF132HID	bigWig	fold change over control	ENCSR000CGK	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	2	2_1
+ENCFF289QMU	bigWig	fold change over control	ENCSR000ADI	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	1	1_1
+ENCFF186GLL	bigWig	fold change over control	ENCSR000ADI	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	2	2_1
+ENCFF426ODS	bigWig	fold change over control	ENCSR000ADI	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	"1, 2"	"1_1, 2_1"
+ENCFF727COH	bigWig	fold change over control	ENCSR000ADI	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	1	1_1
+ENCFF351YRY	bigWig	fold change over control	ENCSR000ADI	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	2	2_1
+ENCFF495OUR	bigWig	fold change over control	ENCSR000ADI	Histone ChIP-seq	CH12.LX	cell line	H3K4me3-mouse	mm10	"1, 2"	"1_1, 2_1"
+ENCFF248ADF	bigWig	fold change over control	ENCSR000ERM	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	1	1_1
+ENCFF527MQZ	bigWig	fold change over control	ENCSR000ERM	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	2	2_1
+ENCFF641JPY	bigWig	fold change over control	ENCSR000ERM	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	1	1_1
+ENCFF504YYO	bigWig	fold change over control	ENCSR000ERM	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	2	2_1
+ENCFF025UEN	bigWig	fold change over control	ENCSR000ERM	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	"1, 2"	"1_1, 2_1"
+ENCFF499GIZ	bigWig	fold change over control	ENCSR000ERM	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	"1, 2"	"1_1, 2_1"
+ENCFF980OLE	bigWig	fold change over control	ENCSR000DIU	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	2	2_1
+ENCFF504OHG	bigWig	fold change over control	ENCSR000DIU	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	1	1_1
+ENCFF844EOO	bigWig	fold change over control	ENCSR000DIU	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	"1, 2"	"1_1, 2_1"
+ENCFF367MVS	bigWig	fold change over control	ENCSR000DIU	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	1	1_1
+ENCFF054XOV	bigWig	fold change over control	ENCSR000DIU	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	2	2_1
+ENCFF137XUJ	bigWig	fold change over control	ENCSR000DIU	TF ChIP-seq	CH12.LX	cell line	CTCF-mouse	mm10	"1, 2"	"1_1, 2_1"

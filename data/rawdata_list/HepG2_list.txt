@@ -1,0 +1,26 @@
+ENCFF977QAI	tsv	transcript quantifications	ENCSR000CPE	polyA plus RNA-seq	HepG2	cell line		>200	2	2_1
+ENCFF642NRP	tsv	transcript quantifications	ENCSR000CPE	polyA plus RNA-seq	HepG2	cell line		>200	1	1_1
+ENCFF416RHJ	tsv	transcript quantifications	ENCSR000CPE	polyA plus RNA-seq	HepG2	cell line		>200	1	1_1
+ENCFF938LTW	tsv	transcript quantifications	ENCSR000CPE	polyA plus RNA-seq	HepG2	cell line		>200	2	2_1
+ENCFF996UCI	tsv	transcript quantifications	ENCSR181ZGR	total RNA-seq	HepG2	cell line		>200	2	2_1
+ENCFF841EMY	tsv	transcript quantifications	ENCSR181ZGR	total RNA-seq	HepG2	cell line		>200	1	1_1
+ENCFF646HZV	tsv	transcript quantifications	ENCSR181ZGR	total RNA-seq	HepG2	cell line		>200	2	2_1
+ENCFF859XKH	tsv	transcript quantifications	ENCSR181ZGR	total RNA-seq	HepG2	cell line		>200	1	1_1
+ENCFF108DRB	tsv	transcript quantifications	ENCSR985KAT	polyA plus RNA-seq	HepG2	cell line		>200	2	2_1
+ENCFF578FBF	tsv	transcript quantifications	ENCSR985KAT	polyA plus RNA-seq	HepG2	cell line		>200	1	1_1
+ENCFF458NJB	tsv	transcript quantifications	ENCSR985KAT	polyA plus RNA-seq	HepG2	cell line		>200	1	1_1
+ENCFF371KBB	tsv	transcript quantifications	ENCSR985KAT	polyA plus RNA-seq	HepG2	cell line		>200	2	2_1
+ENCFF785EQB	bigWig	fold change over control	ENCSR000AMP	Histone ChIP-seq	HepG2	cell line	H3K4me3-human		1	1_1
+ENCFF284FVP	bigWig	fold change over control	ENCSR000AMP	Histone ChIP-seq	HepG2	cell line	H3K4me3-human		1, 2	1_1, 2_1
+ENCFF053XDJ	bigWig	fold change over control	ENCSR000AMP	Histone ChIP-seq	HepG2	cell line	H3K4me3-human		2	2_1
+ENCFF113VII	bigWig	read-depth normalized signal	ENCSR149XIL	DNase-seq	HepG2	cell line			2	2_1
+ENCFF546MZK	bigWig	read-depth normalized signal	ENCSR149XIL	DNase-seq	HepG2	cell line			1	1_1
+ENCFF981UER	bigWig	fold change over control	ENCSR607XFI	TF ChIP-seq	HepG2	cell line	CTCF-human		2	2_1
+ENCFF301SGJ	bigWig	fold change over control	ENCSR607XFI	TF ChIP-seq	HepG2	cell line	CTCF-human		1, 2	1_1, 2_1
+ENCFF989NNN	bigWig	fold change over control	ENCSR607XFI	TF ChIP-seq	HepG2	cell line	CTCF-human		1	1_1
+ENCFF153WDH	bigWig	fold change over control	ENCSR000AMO	Histone ChIP-seq	HepG2	cell line	H3K27ac-human		2	2_1
+ENCFF401PIF	bigWig	fold change over control	ENCSR000AMO	Histone ChIP-seq	HepG2	cell line	H3K27ac-human		1	1_1
+ENCFF795ONN	bigWig	fold change over control	ENCSR000AMO	Histone ChIP-seq	HepG2	cell line	H3K27ac-human		1, 2	1_1, 2_1
+ENCFF992REP	bigWig	fold change over control	ENCSR575RRX	Histone ChIP-seq	HepG2	cell line	H3K4me3-human	200-600	1	1_1
+ENCFF981CDI	bigWig	fold change over control	ENCSR575RRX	Histone ChIP-seq	HepG2	cell line	H3K4me3-human	200-600	2	2_1
+ENCFF500VAH	bigWig	fold change over control	ENCSR575RRX	Histone ChIP-seq	HepG2	cell line	H3K4me3-human	200-600	1, 2	1_1, 2_1

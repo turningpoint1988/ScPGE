@@ -1,0 +1,2 @@
+GENCODE V29 annotation file (Human) can be downloaded from GENCODE (https://www.gencodegenes.org/human/release_29.html)
+GENCODE vM21 annotation file (Mouse) can be downloaded from GENCODE (https://www.gencodegenes.org/mouse/release_M21.html)

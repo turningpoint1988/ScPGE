@@ -1,0 +1,20 @@
+ENCFF614VJE	tsv	transcript quantifications	ENCSR000CTV	polyA plus RNA-seq	B cell	primary cell		>200	2	2_1
+ENCFF113WEJ	tsv	transcript quantifications	ENCSR000CTV	polyA plus RNA-seq	B cell	primary cell		>200	2	2_1
+ENCFF544EQA	tsv	transcript quantifications	ENCSR000CTV	polyA plus RNA-seq	B cell	primary cell		>200	1	1_1
+ENCFF268BYA	tsv	transcript quantifications	ENCSR000CTV	polyA plus RNA-seq	B cell	primary cell		>200	1	1_1
+ENCFF917JIG	bigWig	fold change over control	ENCSR878JSF	Histone ChIP-seq	B cell	primary cell	H3K4me3-human	200-600	1	1_1, 1_2
+ENCFF175WBS	bigWig	fold change over control	ENCSR000AUV	TF ChIP-seq	B cell	primary cell	CTCF-human		1	1_1
+ENCFF418EBS	bigWig	fold change over control	ENCSR000AUV	TF ChIP-seq	B cell	primary cell	CTCF-human		2	2_1
+ENCFF035DJL	bigWig	fold change over control	ENCSR000AUV	TF ChIP-seq	B cell	primary cell	CTCF-human		1, 2	1_1, 2_1
+ENCFF781ZDY	bigWig	fold change over control	ENCSR000AUP	Histone ChIP-seq	B cell	primary cell	H3K27ac-human		1, 2	1_1, 2_1
+ENCFF474MNE	bigWig	fold change over control	ENCSR000AUP	Histone ChIP-seq	B cell	primary cell	H3K27ac-human		1	1_1
+ENCFF286JPM	bigWig	fold change over control	ENCSR000AUP	Histone ChIP-seq	B cell	primary cell	H3K27ac-human		2	2_1
+ENCFF851PJG	bigWig	fold change over control	ENCSR269OVV	Histone ChIP-seq	B cell	primary cell	H3K4me3-human		1	1_1
+ENCFF588PNQ	bigWig	fold change over control	ENCSR269OVV	Histone ChIP-seq	B cell	primary cell	H3K4me3-human		2	2_1
+ENCFF682CXH	bigWig	fold change over control	ENCSR269OVV	Histone ChIP-seq	B cell	primary cell	H3K4me3-human		1, 2	1_1, 2_1
+ENCFF112YXL	bigWig	read-depth normalized signal	ENCSR000EMJ	DNase-seq	B cell	primary cell			2	2_1
+ENCFF452URQ	bigWig	read-depth normalized signal	ENCSR000EMJ	DNase-seq	B cell	primary cell			1	1_1
+ENCFF807GVN	bigWig	fold change over control	ENCSR939UQD	Histone ChIP-seq	B cell	primary cell	H3K4me3-human		1	1_2
+ENCFF134KAD	bigWig	read-depth normalized signal	ENCSR381PXW	DNase-seq	B cell	primary cell			1	1_1, 1_2
+ENCFF993MFJ	bigWig	read-depth normalized signal	ENCSR247IUJ	DNase-seq	B cell	primary cell			1	1_2
+ENCFF089VAB	bigWig	fold change over control	ENCSR191ZQT	Histone ChIP-seq	B cell	primary cell	H3K27ac-human		1	1_2

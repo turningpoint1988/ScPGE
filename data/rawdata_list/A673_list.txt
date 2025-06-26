@@ -1,0 +1,15 @@
+ENCFF781RJW	tsv	transcript quantifications	ENCSR558SEE	total RNA-seq	A673	cell line			2	2_1
+ENCFF898FKI	tsv	transcript quantifications	ENCSR558SEE	total RNA-seq	A673	cell line			1	1_1
+ENCFF814ZWE	tsv	transcript quantifications	ENCSR558SEE	total RNA-seq	A673	cell line			2	2_1
+ENCFF199FVF	tsv	transcript quantifications	ENCSR558SEE	total RNA-seq	A673	cell line			1	1_1
+ENCFF816IIS	bigWig	read-depth normalized signal	ENCSR346JWH	DNase-seq	A673	cell line			1	1_1
+ENCFF854FEY	bigWig	read-depth normalized signal	ENCSR346JWH	DNase-seq	A673	cell line			2	2_1
+ENCFF052IDF	bigWig	fold change over control	ENCSR714TJD	Histone ChIP-seq	A673	cell line	H3K27ac-human	200-600	1	1_1
+ENCFF331LHH	bigWig	fold change over control	ENCSR714TJD	Histone ChIP-seq	A673	cell line	H3K27ac-human	200-600	2	2_1
+ENCFF213BSP	bigWig	fold change over control	ENCSR714TJD	Histone ChIP-seq	A673	cell line	H3K27ac-human	200-600	1, 2	1_1, 2_1
+ENCFF448MXP	bigWig	fold change over control	ENCSR435FGK	Histone ChIP-seq	A673	cell line	H3K4me3-human	200-600	1	1_1
+ENCFF958CFK	bigWig	fold change over control	ENCSR435FGK	Histone ChIP-seq	A673	cell line	H3K4me3-human	200-600	1, 2	1_1, 2_1
+ENCFF742MPS	bigWig	fold change over control	ENCSR435FGK	Histone ChIP-seq	A673	cell line	H3K4me3-human	200-600	2	2_1
+ENCFF146LTQ	bigWig	fold change over control	ENCSR611JJS	TF ChIP-seq	A673	cell line	CTCF-human	300-800, 200-600	1	1_1
+ENCFF864KEM	bigWig	fold change over control	ENCSR611JJS	TF ChIP-seq	A673	cell line	CTCF-human	300-800, 200-600	2	2_1
+ENCFF070LLG	bigWig	fold change over control	ENCSR611JJS	TF ChIP-seq	A673	cell line	CTCF-human	300-800, 200-600	1, 2	1_1, 2_1

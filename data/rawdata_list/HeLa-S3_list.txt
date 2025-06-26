@@ -1,0 +1,17 @@
+ENCFF798WQM	tsv	transcript quantifications	ENCSR000CPR	polyA plus RNA-seq	HeLa-S3	cell line		>200	2	2_1
+ENCFF975NGG	tsv	transcript quantifications	ENCSR000CPR	polyA plus RNA-seq	HeLa-S3	cell line		>200	1	1_1
+ENCFF364YCB	tsv	transcript quantifications	ENCSR000CPR	polyA plus RNA-seq	HeLa-S3	cell line		>200	1	1_1
+ENCFF008ARC	tsv	transcript quantifications	ENCSR000CPR	polyA plus RNA-seq	HeLa-S3	cell line		>200	2	2_1
+ENCFF194NJI	bigWig	read-depth normalized signal	ENCSR000ENO	DNase-seq	HeLa-S3	cell line			1	1_1
+ENCFF949GHX	bigWig	read-depth normalized signal	ENCSR000ENO	DNase-seq	HeLa-S3	cell line			2	2_1
+ENCFF010QGR	bigWig	fold change over control	ENCSR000AOC	Histone ChIP-seq	HeLa-S3	cell line	H3K27ac-human		1	1_1
+ENCFF855XCJ	bigWig	fold change over control	ENCSR000AOC	Histone ChIP-seq	HeLa-S3	cell line	H3K27ac-human		2	2_1
+ENCFF658XKZ	bigWig	fold change over control	ENCSR000AOC	Histone ChIP-seq	HeLa-S3	cell line	H3K27ac-human		1, 2	1_1, 2_1
+ENCFF215FZM	bigWig	fold change over control	ENCSR000AOA	TF ChIP-seq	HeLa-S3	cell line	CTCF-human		1	1_1
+ENCFF464OSE	bigWig	fold change over control	ENCSR000AOA	TF ChIP-seq	HeLa-S3	cell line	CTCF-human		2	2_1
+ENCFF179RSE	bigWig	fold change over control	ENCSR000AOA	TF ChIP-seq	HeLa-S3	cell line	CTCF-human		1, 2	1_1, 2_1
+ENCFF532TVQ	bigWig	fold change over control	ENCSR000AOF	Histone ChIP-seq	HeLa-S3	cell line	H3K4me3-human		1	1_1
+ENCFF933NWW	bigWig	fold change over control	ENCSR000AOF	Histone ChIP-seq	HeLa-S3	cell line	H3K4me3-human		2	2_1
+ENCFF460QIU	bigWig	fold change over control	ENCSR000AOF	Histone ChIP-seq	HeLa-S3	cell line	H3K4me3-human		1, 2	1_1, 2_1
+ENCFF757GHL	bigWig	read-depth normalized signal	ENCSR959ZXU	DNase-seq	HeLa-S3	cell line			1	1_1
+ENCFF660ZUF	bigWig	read-depth normalized signal	ENCSR959ZXU	DNase-seq	HeLa-S3	cell line			2	2_1
