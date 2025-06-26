@@ -4,7 +4,7 @@
 The flowchart of NLDNN-AT is displayed as follows:
 
 <p align="center"> 
-<img src=https://github.com/turningpoint1988/ScPGE/picture/flowchart.jpg>
+<img src=https://github.com/turningpoint1988/ScPGE/blob/main/picture/flowchart.jpg>
 </p>
 
 <h4 align="center"> 
